@@ -6,6 +6,7 @@ body{
 h2{
   font-family: 'Times New Roman', Times, serif;
   font-weight: normal;
+  /* font-size: 16px; */
   text-align: center;
   margin: 5px 0;
   padding: 0;
@@ -129,3 +130,4 @@ h2{
   color: #fff;
   background-size: cover;
 }
+
